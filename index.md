@@ -2,7 +2,7 @@
 
 Welcome to my site. For the time being, this is a test.
 
-Check my map [https://joseluismateos.github.io/joseluismgonzalez/test_mapa.html]
+Check my [map] (https://joseluismateos.github.io/joseluismgonzalez/test_mapa.html)
 
 ### Markdown
 
