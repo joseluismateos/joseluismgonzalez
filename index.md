@@ -4,6 +4,8 @@ Welcome to my site. For the time being, this is a test.
 
 Check my [map](https://joseluismateos.github.io/joseluismgonzalez/test_mapa.html)
 
+<iframe src="https://joseluismateos.github.io/joseluismgonzalez/test_mapa.html" style="width: 500px; height: 130px; border: 0px"></iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
