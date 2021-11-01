@@ -2,6 +2,8 @@
 
 Welcome to my site. For the time being, this is a test.
 
+Check my map [https://joseluismateos.github.io/joseluismgonzalez/test_mapa.html]
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
