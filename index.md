@@ -4,7 +4,7 @@ Welcome to my site. For the time being, this is a test.
 
 Check my [map](https://joseluismateos.github.io/joseluismgonzalez/test_mapa.html)
 
-<iframe src="https://joseluismateos.github.io/joseluismgonzalez/test_mapa.html" style="width: 500px; height: 130px; border: 0px"></iframe>
+<iframe src="https://joseluismateos.github.io/joseluismgonzalez/test_mapa.html" style="width: 500px; height: 500px; border: 0px"></iframe>
 
 ### Markdown
 
